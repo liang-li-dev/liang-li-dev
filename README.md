@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lyon-Lee-K
+- 👋 Hi, I’m @Lyon
 - 👀 I’m interested in JavaScript and Go
 - 🌱 I’m currently working from home
 
