@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lyon
 - 👀 I’m interested in JavaScript and Go
-- 🌱 I’m currently working from home and looking for a job
+- 🌱 I’m currently working from home
 
 <!---
 Lyon-Lee-K/Lyon-Lee-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
